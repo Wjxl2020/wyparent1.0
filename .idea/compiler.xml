@@ -18,27 +18,27 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="admin" target="1.8" />
-      <module name="Auto" target="1.8" />
-      <module name="bus" target="1.8" />
-      <module name="gateway" target="1.8" />
-      <module name="mail" target="1.8" />
-      <module name="pojo" target="1.8" />
-      <module name="socket" target="1.8" />
-      <module name="util" target="1.8" />
-      <module name="wyparent1.0" target="1.8" />
+      <module name="admin" target="1.5" />
+      <module name="Auto" target="1.5" />
+      <module name="bus" target="1.5" />
+      <module name="gateway" target="1.5" />
+      <module name="mail" target="1.5" />
+      <module name="pojo" target="1.5" />
+      <module name="socket" target="1.5" />
+      <module name="util" target="1.5" />
+      <module name="wyparent1.0" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Auto" options="-parameters" />
-      <module name="admin" options="-parameters" />
-      <module name="bus" options="-parameters" />
-      <module name="gateway" options="-parameters" />
-      <module name="mail" options="-parameters" />
-      <module name="pojo" options="-parameters" />
-      <module name="socket" options="-parameters" />
-      <module name="util" options="-parameters" />
+      <module name="Auto" options="" />
+      <module name="admin" options="" />
+      <module name="bus" options="" />
+      <module name="gateway" options="" />
+      <module name="mail" options="" />
+      <module name="pojo" options="" />
+      <module name="socket" options="" />
+      <module name="util" options="" />
     </option>
   </component>
 </project>
