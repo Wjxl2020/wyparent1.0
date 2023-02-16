@@ -60,7 +60,7 @@
                 <scope>provided</scope>
             </dependency>
 
-            <!--阿里组件 包括nacos等 -->
+            <!--阿里组件: 包括nacos等 -->
             <dependency>
                 <groupId>com.alibaba.cloud</groupId>
                 <artifactId>spring-cloud-alibaba-dependencies</artifactId>
